@@ -69,7 +69,7 @@ Feel free to connect with me on LinkedIn and explore more projects on my GitHub 
 ---
 
 ## 👤 Author
-**Uday Zaware**  
+**Udaykumar N Zaware**  
 - GitHub: [udayzaware27 ](https://github.com/udayzaware27)
 - Linkedin: www.linkedin.com/in/udaykumar-zaware27
 
