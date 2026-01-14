@@ -7,14 +7,14 @@ This project focuses on analyzing a structured dataset using SQL to extract mean
 
 ## 🗂️ Dataset Description
 - The dataset is provided in CSV format.
-- Data is imported into a relational database (MySQL / PostgreSQL).
+- Data is imported into a relational database (PostgreSQL).
 - The dataset contains numerical, categorical, and date-based columns for analysis.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- SQL (MySQL / PostgreSQL)
-- pgAdmin / MySQL Workbench
+- SQL (PostgreSQL)
+- pgAdmin
 - CSV Files
 - Git & GitHub
 
@@ -47,7 +47,7 @@ This project focuses on analyzing a structured dataset using SQL to extract mean
 ---
 
 ## 🚀 How to Run This Project
-1. Create a database in MySQL or PostgreSQL.
+1. Create a database in PostgreSQL.
 2. Import the CSV file into a table.
 3. Open the SQL file containing queries.
 4. Execute queries to view results.
